@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:mydrip/provider_handler.dart';
+import 'package:mydrip/screens/forumHome.dart';
 import 'package:mydrip/screens/home.dart';
 import 'package:provider/provider.dart';
 
